@@ -1,8 +1,8 @@
 #Layered Architecture Style
 
 Bom: custo benefício e simplicidade
-Ruim: implantação e tolerância de erro
-Sistema desenvolvido: sistema de controle de acesso utilizando tecnologia de identificação por radiofrequencia
+Ruim: implantação e elasticidade
+Sistema desenvolvido: sistema de controle de acesso de um condominio, não necessida de elasticidade pois serão pucos dados adicionados, e sendo simples e de baixo custo beneficio faz sentido fazer para algo simples.
 
 Pipeline Architecture Style
 Bom: custo benefício e simplicidade
@@ -25,6 +25,6 @@ Ruim: simplicidade e testabilidade
 Sistema desenvolvido: sistema de analise de mercado financeiro, pois sua evolução permitiria que novos dados fossem processados
 
 Microservices Architecture
-Bom: elasticidade e evolução
+Bom: elasticidade e escalabilidade
 Ruim: custo beneficio e simplicidade
-Sistema desenvolvido: sistema de uma loja virtual, onde pode haver compras, reclamações, pesquisas e etc, com sua boa elasticidade e evolução, facilitaria a adição de novos dados processados
+Sistema desenvolvido: sistema de uma loja virtual, onde pode haver compras, reclamações, pesquisas, acompanhamento de pedido, pagamento, com sua boa elasticidade facilitaria a adição de novos dados processados e sua escalabilidade ajuda com os varios serviços que essa mesma loja ira ter.
