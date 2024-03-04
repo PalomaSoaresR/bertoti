@@ -7,7 +7,7 @@ Sistema desenvolvido: sistema de controle de acesso utilizando tecnologia de ide
 Pipeline Architecture Style
 bom: custo benefício e simplicidade
 ruim: elasticidade e tolerancia de erro
-Sistema desenvolvido:
+Sistema desenvolvido: sistema de folha de pagamento e poderiamos resolver a tolerancia de erro com validações de dados antes de salvar
 
 Microkernel Architecture Style
 bom: custo benefício e simplicidade
