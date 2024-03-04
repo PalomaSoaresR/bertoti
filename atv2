@@ -1,0 +1,23 @@
+Layered Architecture Style
+trade-offs:
+Sistema desenvolvido: sistema de controle de acesso utilizando tecnologia de identificação por radiofrequencia
+
+Pipeline Architecture Style
+trade-offs:
+Sistema desenvolvido:
+
+Microkernel Architecture Style
+trade-offs:
+Sistema desenvolvido: controle de estoque para pequenas empresas, pois seria simples e com baixo custo, por ser pequena empresa seria mais facil de controlas erros e não precisaria ter elasticidade pois a empresa não é de grande porte
+
+Service-Based Architecture Style
+trade-offs:
+Sistema desenvolvido: sistema de cadatro de uma portaria 
+
+Event-Driven Architecture Style
+trade-offs:
+Sistema desenvolvido: sistema de analise de mercado financeiro, pois sua evolução permitiria que novos dados fossem processados
+
+Microservices Architecture
+trade-offs:
+Sistema desenvolvido: sistema de uma loja virtual, onde pode haver compras, reclamações, pesquisas e etc, com sua boa elasticidade e evolução, facilitaria a adição de novos dados processados
