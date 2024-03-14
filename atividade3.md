@@ -1,21 +1,29 @@
 # Layered Architecture Style
-Uma estrutura em camadas de software é um padrão de arquitetura de software em que um sistema é dividido em camadas distintas, cada uma com responsabilidades específicas e interconectadas de forma hierárquica. Cada camada fornece um conjunto de serviços bem definidos para as camadas acima dela, enquanto se comunica apenas com as camadas adjacentes, o que promove a modularidade, reutilização de código e facilita a manutenção do sistema.
-
-## Aplicação 
-Uma boa aplicação para sistemas de larga escala, onde necessita de uma estrutura que defina bem cada serviço como sistemas empresariais que trabalham com volume grande de dados e deve ser organizado
-
-## Trade-offs
-Um software técnico, com pouca tolerância de erro, implementação dificil, com pouca elasticidade porém seria somente 
+Bom: custo benefício e simplicidade
+Ruim: implantação e elasticidade
+Sistema desenvolvido: sistema de controle de acesso de um condominio, não necessida de elasticidade pois serão pucos dados adicionados, e sendo simples e de baixo custo beneficio faz sentido fazer para algo simples.
 
 # Pipeline Architecture Style
-A arquitetura de estilo Pipeline é um padrão arquitetural comumente usado em sistemas de processamento de dados ou em fluxos de trabalho onde o processamento precisa ser dividido em etapas sequenciais e independentes. É semelhante a uma linha de montagem em uma fábrica, onde cada etapa realiza uma operação específica e passa o produto resultante para a próxima etapa.
+Bom: custo benefício e simplicidade
+Ruim: elasticidade e tolerancia de erro
+Sistema desenvolvido: sistema de folha de pagamento e poderiamos resolver a tolerancia de erro com validações de dados antes de salvar
 
-## Aplicação 
-Sistemas que lidam com transação bancaria usado para lidar com etapas como validação de transações, verificação de saldo, processamento de pagamentos e geração de relatórios.
+# Microkernel Architecture Style
+Bom: custo benefício e simplicidade
+Ruim: elasticidade e tolerancia de erro
+Sistema desenvolvido: controle de estoque para pequenas empresas, pois seria simples e com baixo custo, por ser pequena empresa seria mais facil de controlas erros e não precisaria ter elasticidade pois a empresa não é de grande porte
 
-## Trade-offs
-É uma arquitetura que tem simplicidade, baixo custo e possui evolução, ótimas qualidades para um sistema de transação bancária.
+# Service-Based Architecture Style
+Bom: tolerancia de erro e modularidade
+Ruim: elasticidade e performace 
+Sistema desenvolvido: sistema de cadatro de uma portaria 
 
+# Event-Driven Architecture Style
+Bom: evolução e performace
+Ruim: simplicidade e testabilidade
+Sistema desenvolvido: sistema de analise de mercado financeiro, pois sua evolução permitiria que novos dados fossem processados
 
-
-
+# Microservices Architecture
+Bom: elasticidade e escalabilidade
+Ruim: custo beneficio e simplicidade
+Sistema desenvolvido: sistema de uma loja virtual, onde pode haver compras, reclamações, pesquisas, acompanhamento de pedido, pagamento, com sua boa elasticidade facilitaria a adição de novos dados processados e sua escalabilidade ajuda com os varios serviços que essa mesma loja ira ter.
