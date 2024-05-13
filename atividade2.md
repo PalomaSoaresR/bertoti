@@ -1,4 +1,4 @@
-#Três exemplos de trade-offs
+## Três exemplos de trade-offs
 
 - Fazer comida em casa e gastar mais tempo cozinhando vs pedir uma refeição em um restaurante gastando mais, porém gastando menos tempo no preparo.
 - Sair e socializar vs estudar ou trabalhar e colocar as coisas em dia.
