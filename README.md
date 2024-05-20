@@ -1,5 +1,5 @@
 # :gear: Aula de Engenharia de software	
-### prof° Giuliano Araujo Bertotti
+### Prof° Giuliano Araujo Bertotti
 
 :book: [Atividade 1](https://github.com/PalomaSoaresR/bertoti/blob/main/atividade1.md) - Comentário do livro
 
