@@ -11,8 +11,8 @@
 
 📌 [Atividade 5](https://github.com/PalomaSoaresR/bertoti/blob/main/atividade5.md) - Classes da arquitetura escolhida em UML
 
-☕️ [Atividade 6]() - Implementação das classes em código java
+☕️ [Atividade 6](https://github.com/PalomaSoaresR/bertoti/tree/main/twitter/src/main/java/com/example) - Implementação das classes em código java
 
-⏩️ [Atividade 7]() - Teste das classes
+⏩️ [Atividade 7](https://github.com/PalomaSoaresR/bertoti/tree/main/twitter/src/test/java) - Teste das classes
 
  
