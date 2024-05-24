@@ -1,3 +1,3 @@
 ## Diagrama de classes - Twitter
 
-![twitter](https://github.com/PalomaSoaresR/bertoti/assets/143560101/467b6ab9-f135-4dfb-a929-433df4f272be)
+![twitter (1)](https://github.com/PalomaSoaresR/bertoti/assets/143560101/9982b778-582f-4925-b880-ef1331c0b073)
