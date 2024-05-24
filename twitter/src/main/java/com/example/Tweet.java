@@ -4,7 +4,9 @@ public class Tweet {
     private String conteudo;
     private String dataHora;
 
-    public Tweet(String conteudo2, String dataHora2) {
+    public Tweet(String conteudo, String dataHora) {
+        this.conteudo = conteudo;
+        this.dataHora = dataHora;
     }
 
     public String getConteudo() {
@@ -22,5 +24,4 @@ public class Tweet {
     public void setDataHora(String dataHora) {
         this.dataHora = dataHora;
     }
-
 }

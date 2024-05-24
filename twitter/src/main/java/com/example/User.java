@@ -1,15 +1,17 @@
 package com.example;
 
 import java.util.List;
+import java.util.LinkedList;
 
 public class User {
     
     private String userName;
-    private String passaword;
+    private String password;
     private List<String> followers;
 
     public User(String userName) {
         this.userName = userName;
+        this.followers = new LinkedList<>();
     }
 
     public String getUserName() {
@@ -20,12 +22,12 @@ public class User {
         this.userName = userName;
     }
 
-    public String getPassaword() {
-        return passaword;
+    public String getPassword() {
+        return password;
     }
 
-    public void setPassaword(String passaword) {
-        this.passaword = passaword;
+    public void setPassword(String password) {
+        this.password = password;
     }
 
     public List<String> getFollowers() {
@@ -35,5 +37,4 @@ public class User {
     public void setFollowers(List<String> followers) {
         this.followers = followers;
     }
-
 }
