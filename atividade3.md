@@ -9,12 +9,12 @@ trade-offs: também uma arquitetura de baixo-custo e simples porém com pouca el
 Sistema desenvolvido: sistema que recebe um texto como entrada e realiza várias operações, como contagem de palavras, remoção de espaços em branco, conversão para letras minúsculas e identificação de palavras-chave.
 
 ## Microkernel Architecture Style - especificas
-trade-offs: uma arquitetura com otimo custo beneficio, simplicidade e performace porém com pouco escalabilidade, elasticidade e pouca toletancia de erro.
+trade-offs: uma arquitetura com ótimo custo beneficio, simplicidade e performace porém com pouca escalabilidade, elasticidade e toletancia de erro.
 
 Sistema desenvolvido: controle de estoque para pequenas empresas, pois seria simples e com baixo custo, por ser pequena empresa seria mais facil de controlas erros e não precisaria ter elasticidade pois a empresa não é de grande porte.
 
 ## Service-Based Architecture Style - serviços de dia a dia
-trade-offs: é uma arquitetura que possui muitos requisitos não funcionais bons porém não possui uma ótima elasticidade
+trade-offs: é uma arquitetura que possui muitos requisitos não funcionais bons porém não possui uma ótima elasticidade.
 
 Sistema desenvolvido: sistema de cadatro de uma portaria 
 
