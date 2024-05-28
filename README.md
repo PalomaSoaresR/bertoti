@@ -15,4 +15,6 @@
 
 ⏩️ [Atividade 7](https://github.com/PalomaSoaresR/bertoti/tree/main/twitter/src/test/java) - Teste das classes
 
+[Atividade 8](https://github.com/PalomaSoaresR/bertoti/blob/main/atividade8.md) - Diagrama de caso de uso
+
  
