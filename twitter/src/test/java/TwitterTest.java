@@ -21,6 +21,7 @@ public class TwitterTest {
         twitter.addUser(user1);
         twitter.addUser(user2);
 
+
         // verifica se os usuários foram adicionados
         assertEquals(2, twitter.getUsers().size());
         assertEquals("Bertoti", twitter.getUsers().get(0).getUserName());
