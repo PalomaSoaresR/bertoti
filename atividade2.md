@@ -1,5 +1,5 @@
 ## Três exemplos de trade-offs
 
-- Fazer comida em casa e gastar mais tempo cozinhando vs pedir uma refeição em um restaurante gastando mais, porém gastando menos tempo no preparo.
-- Sair e socializar vs estudar ou trabalhar e colocar as coisas em dia.
-- Ir de uber e gastar mais dinheiro porém gastare menos tempo ou ir de ônibus, gastar menos dinheiro mas mais tempo.
+- Códigos com desempenho ótimo, sendo rápidos e eficentes porém mais complexos e difíceis de entender vs códigos claros e fáceis de ler porém menos eficientes.
+- Desenvolver um programa com rapidez, cumprindo curtos prazos porém menos testados vs códigos que serão demorados para serem feitos, pedindo assim um prazo maior, porém mais testado e com qualidade.
+- Utilizar bibliotecas próprias com soluções personalizadas porém com mais demora no desenvolvimento vs utilizar bibliotecas de terceiros, que já estão prontas e aceleram o desenvolvimento porém pode introduzir dependencias externas e problemas de compatibilidade.
