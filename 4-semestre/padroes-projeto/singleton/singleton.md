@@ -1,0 +1,5 @@
+- **Singleton** (não possui anti).
+    - É para garantir que uma classe tenha somente uma instância e fornecer um ponto global de acesso para a mesma.
+    - Resolve o problema de quando precisamos de uma instância única.
+    - O objetivo do Singleton é somente verificar se há somente uma instância, não se deve ter mais métodos dentro dessa classe (God Object), ou métodos que podem ser alterados (como getters e setters?).
+    - Como resolver: criar uma classe Singleton, com o atributo `private` de Singleton, construtor privado e um método `getSingleton` que possui uma lógica de verificar se já foi criada a instância. Se já foi, retorna ela, e se não, cria uma nova instância e retorna ela.

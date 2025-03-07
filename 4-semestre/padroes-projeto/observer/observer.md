@@ -1,0 +1,3 @@
+- **Observer** (notifica automaticamente objetos quando um estado muda).
+    - Pode ser usado quando precisamos ser notificados de alguma mudança, mas sem “pesquisar” que ela existe, e sim ser notificado quando há mudanças.
+    - Ideia: fazer uma interface `Observer` que irá ter um método de `update`. Assim, só implementa-se essa interface quando quiser “observar” essa mudança. Há também o `Subject`, que podemos chamar de “gerenciador”, onde adicionamos, removemos e notificamos.
