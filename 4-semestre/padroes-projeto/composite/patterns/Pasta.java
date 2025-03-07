@@ -4,41 +4,36 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Pasta implements Composite {
-      private String nomePasta;
+    private String nomePasta;
     private String conteudoPasta;
     private List<Composite> filhos = new ArrayList<>();
 
-    public Pasta(String nomePasta, String conteudoPasta, List<Composite> filhos) {
+    public Pasta(String nomePasta, String conteudoPasta) {
         this.nomePasta = nomePasta;
         this.conteudoPasta = conteudoPasta;
-        this.filhos = filhos;
     }
 
     @Override
     public void exibir() {
-        
+        System.out.println(conteudoPasta);
     }
 
- @Override
- public String getNome() {
-     return nomePasta;
- }
+    @Override
+    public String getNome() {
+        return nomePasta;
+    }
 
- public void add(Composite composite) {
-     filhos.add(null);
+    public void add(Composite composite) {
+        filhos.add(composite);
+    }
 
- }
+    public void excluir(Composite composite) {
+        filhos.remove(composite);
 
- 
- public void excluir(Composite composite) {
-     filhos.remove(0);
+    }
 
- }
+    public List<Composite> getFilhos() {
+        return filhos;
+    }
 
- 
- public List<Composite> getFilhos() {
-     return filhos;
- }
-
-    
 }

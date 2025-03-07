@@ -3,10 +3,9 @@ package composite.patterns;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Arquivo implements Composite{
+public class Arquivo implements Composite {
     private String nomeArquivo;
     private String conteudoArquivo;
-
 
     public Arquivo(String nomeArquivo, String conteudoArquivo) {
         this.nomeArquivo = nomeArquivo;
@@ -15,7 +14,8 @@ public class Arquivo implements Composite{
 
     @Override
     public void exibir() {
-        
+        System.out.println(conteudoArquivo);
+        ;
     }
 
     @Override
