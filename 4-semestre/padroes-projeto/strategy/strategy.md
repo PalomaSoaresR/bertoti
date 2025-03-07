@@ -1,4 +1,2 @@
-- Pode ser usado quando há múltiplas variações de um algoritmo. Em vez de utilizar condicionais para determinar qual será executada, o ideal é definir uma classe específica que encapsule esse comportamento e simplesmente chamar seu método correspondente.  
-- É útil quando várias classes compartilham métodos semelhantes, promovendo a reutilização de código.  
-- Facilita a adição de novos comportamentos sem a necessidade de modificar o código existente, garantindo maior flexibilidade e aderência ao princípio **Open/Closed** do SOLID.  
-- A ideia central é criar uma **interface** com um método padrão, que será implementado por todas as classes que precisam executar esse comportamento, permitindo que cada uma delas forneça sua própria implementação específica.
+- Pode ser usado quando há múltiplas variações de um algoritmo, em vez de fazer uma condicional para escolher qual irá ser executada (você seta uma classe e chama seu método), quando várias classes compartilham métodos parecidos e quando queremos facilitar a adição de novos comportamentos sem modificar o código existente.  
+- Ideia: Fazer uma interface com um método padrão que será chamado em todas as classes que precisam executar esse método e, assim, cada uma delas terá um comportamento.
