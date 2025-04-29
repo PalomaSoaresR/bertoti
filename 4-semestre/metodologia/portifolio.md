@@ -4,7 +4,7 @@
 
 ### Quem sou eu?
 
-Olá, sou a Paloma e sou estudande de Banco de Dados na FATEC de São José dos Campos. Sou apaixonada por tecnologia e pelas soluções que ela nos trás hoje em dia. 
+Olá! Sou a Paloma, estudante de Banco de Dados na FATEC São José dos Campos. Sou apaixonada por tecnologia e pelas soluções que ela proporciona. Neste portfólio, apresento um dos projetos mais recentes em que atuei, com foco no desenvolvimento front-end utilizando Vue.js.
 
 ## Contatos
 * [GIT](https://www.git.com)
@@ -19,6 +19,7 @@ Este semestre estou desenvolvendo em Vue.js e JavaScript
 ### Em 2024
 No segundo semestre do curso o projeto desenvolvido foi para a empresa *** . O desafio proposto para o semestre foi o desenvolvimento de uma aplicação web que fizesse a captura rotineira e armazenamento de notícias estratégicas e dados relevantes associados, além de também poder ser aplicado a APIs que fornecem dados estratégicos, como, por exemplo, previsão do tempo.
 
+O projeto tem como objetivo realizar a coleta e armazenamento de notícias estratégicas de diferentes portais de notícias e fontes de dados via API. Além disso, o sistema oferece funcionalidades para tratar regionalismos e sinônimos nas tags cadastradas, facilitando buscas e análises futuras.
 
 [GIT](https://github.com/Morpheus-Fatec/morpheus?tab=readme-ov-file#descri%C3%A7%C3%A3o-do-desafio)
 
@@ -40,13 +41,36 @@ Slack
 Google Docs
 
 #### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+Atuei diretamente no desenvolvimento do front-end da aplicação, utilizando Vue.js 3, JavaScript ES6+ e Bootstrap 5.3.3.
+Minhas principais entregas incluem:
+
+Tela de cadastro, edição e exclusão de portais de notícias e suas respectivas tags.
+
+Interface intuitiva para gerenciamento de tags com suporte a regionalismos.
+
+Tela para registro e visualização de notícias com autor, data e conteúdo.
+
+Criação de filtros para visualização de dados, integrando com a API e tratando sinônimos via tags.
+
 
 #### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+Vue.js 3 – Desenvolvi telas completas com autonomia.
+
+JavaScript ES6+ – Manipulação de dados, integração com API e lógica de exibição.
+
+Bootstrap – Criação de interfaces responsivas.
+
+Integração com API – Realizei consumo de dados, tratamentos e exibição.
+
+Git – Controle de versão colaborativo com a equipe.
 
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+Colaboração em equipe: participei ativamente das sprints e reuniões de alinhamento.
+
+Comunicação: contribuí para decisões técnicas sobre UX e integração de dados.
+
+Autonomia: entreguei funcionalidades completas no front-end com proatividade.
+
 
 ### Em 2022-1
 Mesmo formato
