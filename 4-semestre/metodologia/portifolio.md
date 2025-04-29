@@ -21,21 +21,17 @@ No segundo semestre do curso o projeto desenvolvido foi para a empresa *** . O d
 
 
 #### Tecnologias Utilizadas
-Java - Versão 21 (Usamos Java no nosso Backend para melhor performace)
-JavaScript - Versão ES6+ (Utilizado para a logica do Frontend)
-Bootstrap - Versão 5.3.3 (Utilizado para a facilitação do desenvolvimento do Frontend)
-MySQL - Versão 8.0 (Usado para o armazenamento de dados coletados)
-JDBC MySQL - Versão 8.0.26 (Utilizado )
-Maven - Versão 3.8.1
-Spring Boot - Versão 3.3.3
-Vue.js - Versão 3
-Git
-GitHub
-Intellij
-VisualStudioCode
-Discord
-Slack
-Google Docs
+- **Vue.js 3**  
+- **JavaScript ES6+**  
+- **Bootstrap 5.3.3**  
+- **Java 21** (back-end)  
+- **Spring Boot 3.3.3**  
+- **MySQL 8.0**  
+- **JDBC / Maven**  
+- **Git / GitHub**  
+- **IntelliJ / Visual Studio Code**  
+- **Discord / Slack / Google Docs**
+
 
 #### Contribuições Pessoais
 Atuei diretamente no desenvolvimento do front-end da aplicação, utilizando Vue.js 3, JavaScript e Bootstrap.
