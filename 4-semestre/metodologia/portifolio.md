@@ -1,23 +1,25 @@
-# Paloma Soares Rocha
+# <p align="center">Paloma Soares Rocha</p>
 
-## Introdução
+## <p align="center">Introdução</p>
 
-### Quem sou eu?
+### <p align="center"> Quem sou eu?</p>
 
-Olá! Sou a Paloma, estudante de Banco de Dados na FATEC São José dos Campos. Sou apaixonada por tecnologia e pelas soluções que ela proporciona. Neste portfólio, apresento um dos projetos mais recentes em que atuei, com foco no desenvolvimento front-end utilizando Vue.js.
+<p align="center"><img src="link" width="20%"></p>
 
-## Contatos
+<p align="justify">Olá! Sou a Paloma, estudante de Banco de Dados na FATEC São José dos Campos. Sou apaixonada por tecnologia e pelas soluções que ela proporciona. Neste portfólio, apresento um dos projetos mais recentes em que atuei, com foco no desenvolvimento front-end utilizando Vue.js.</p>
+
+##  <p align="center">Contatos</p>
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> ](https://github.com/PalomaSoaresR)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/paloma-soares-rocha)
 
-## Meus Principais Conhecimentos
-Este semestre estou desenvolvendo em Vue.js e JavaScript 
+## <p align="center">Meus Principais Conhecimentos</p>
+<p align="justify">Este semestre estou desenvolvendo em Vue.js e JavaScript </p>
 
 
-## Meus Projetos
+##  <p align="center">Meus Projetos</p>
 
 ### Em 2024
-No segundo semestre do curso o projeto desenvolvido foi para a empresa *** . O desafio proposto para o semestre foi o desenvolvimento de uma aplicação web que realizasse a coleta e armazenamento de notícias estratégicas de diferentes portais de notícias e fontes de dados via API. Além disso, o sistema oferece funcionalidades para tratar regionalismos e sinônimos nas tags cadastradas, facilitando buscas e análises futuras.
+<p align="justify">No terceiro semestre do curso eu e minha equipe Morpheus desenvolvemos um projeto para a empresa *** . O desafio proposto para o projeto foi o desenvolvimento de uma aplicação web que realizasse a coleta e armazenamento de notícias estratégicas de diferentes portais de notícias e fontes de dados via API. Além disso, o sistema oferece funcionalidades para tratar regionalismos e sinônimos nas tags cadastradas, facilitando buscas e análises futuras. </p>
 
 
 #### Tecnologias Utilizadas
