@@ -4,44 +4,55 @@
 
 ### <p align="center"> Quem sou eu?</p>
 
-<p align="center"><img src="link" width="20%"></p>
+<p align="center"><img src="" width="20%"></p>
 
 <p align="justify">Olá! Sou a Paloma, estudante de Banco de Dados na FATEC São José dos Campos. Sou apaixonada por tecnologia e pelas soluções que ela proporciona. Neste portfólio, apresento um dos projetos mais recentes em que atuei, com foco no desenvolvimento front-end utilizando Vue.js.</p>
 
-##  <p align="center">Contatos</p>
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> ](https://github.com/PalomaSoaresR)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/paloma-soares-rocha)
+###  <p align="center">Contatos</p>
 
-## <p align="center">Meus Principais Conhecimentos</p>
-<p align="justify">Este semestre estou desenvolvendo em Vue.js e JavaScript </p>
+<div align="center">
+
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/PalomaSoaresR) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/paloma-soares-rocha)
+
+</div>
 
 
 ##  <p align="center">Meus Projetos</p>
 
-### Em 2024
+### Morpheus 
 <p align="justify">No terceiro semestre do curso eu e minha equipe Morpheus desenvolvemos um projeto para a empresa *** . O desafio proposto para o projeto foi o desenvolvimento de uma aplicação web que realizasse a coleta e armazenamento de notícias estratégicas de diferentes portais de notícias e fontes de dados via API. Além disso, o sistema oferece funcionalidades para tratar regionalismos e sinônimos nas tags cadastradas, facilitando buscas e análises futuras. </p>
 
 
 #### Tecnologias Utilizadas
-- **Vue.js 3**  
-- **JavaScript ES6+**  
-- **Bootstrap 5.3.3**  
-- **Java 21** (back-end)  
-- **Spring Boot 3.3.3**  
-- **MySQL 8.0**  
-- **JDBC / Maven**  
-- **Git / GitHub**  
-- **IntelliJ / Visual Studio Code**  
-- **Discord / Slack / Google Docs**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
 
 
 #### Contribuições Pessoais
-Atuei diretamente no desenvolvimento do front-end da aplicação, utilizando Vue.js 3, JavaScript e Bootstrap.
-Minhas principais entregas incluem:
-- Tela de cadastro, edição e exclusão de portais de notícias e suas respectivas tags.
-- Interface intuitiva para gerenciamento de tags com suporte a regionalismos.
+<p align="justify">Atuei diretamente no desenvolvimento do front-end da aplicação, utilizando Vue.js 3, JavaScript e Bootstrap.
+Minhas principais entregas incluiram:</p>
+
+- Tela de cadastro, edição e exclusão de portais de notícias e tags.
+- Interface para gerenciamento de tags com suporte a regionalismos.
 - Tela para registro e visualização de notícias com autor, data e conteúdo.
-- Criação de filtros para visualização de dados, integrando com a API e tratando sinônimos via tags.
+- Criação de filtros para visualização de dados e integrando com a API.
 
 #### Hard Skills
 - Vue.js 3 – Desenvolvi telas completas com autonomia.
