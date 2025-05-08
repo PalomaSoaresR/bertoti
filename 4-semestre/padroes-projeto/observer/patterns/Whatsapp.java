@@ -5,6 +5,6 @@ public class Whatsapp implements Notificacao{
     public Whatsapp(){};
 
     @Override
-    public void notificar(String mensagem) {
+    public void update(String mensagem) {
 System.out.println("Whatsapp: "+ mensagem);    }
 }

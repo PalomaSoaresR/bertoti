@@ -45,7 +45,7 @@
 ###
 
 
-#### Contribuições Pessoais
+#### Contribuições Pessoais ( colocar print da aplicação)
 <p align="justify">Atuei diretamente no desenvolvimento do front-end da aplicação, utilizando Vue.js 3, JavaScript e Bootstrap.
 Minhas principais entregas incluiram:</p>
 
@@ -54,7 +54,7 @@ Minhas principais entregas incluiram:</p>
 - Tela para registro e visualização de notícias com autor, data e conteúdo.
 - Criação de filtros para visualização de dados e integrando com a API.
 
-#### Hard Skills
+#### Hard Skills ( descrever mais )
 - Vue.js 3 – Desenvolvi telas completas com autonomia.
 - JavaScript ES6+ – Manipulação de dados, integração com API e lógica de exibição.
 - Bootstrap – Criação de interfaces responsivas.

@@ -1,5 +1,5 @@
 package strategy.anti;
-
+//herança
 public class Adulto extends Humano {
     @Override
     public void locomover() {

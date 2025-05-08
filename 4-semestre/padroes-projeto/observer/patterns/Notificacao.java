@@ -1,5 +1,6 @@
 package observer.patterns;
 
 public interface Notificacao {
-    void notificar(String mensagem);
+    void update(String mensagem);
 }
+ 

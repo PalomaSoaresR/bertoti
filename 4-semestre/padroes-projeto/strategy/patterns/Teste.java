@@ -1,5 +1,4 @@
-import strategy.patterns.Adulto;
-import strategy.patterns.Bebe;
+package strategy.patterns;
 
 public class Teste {
     public static void main(String[] args) {

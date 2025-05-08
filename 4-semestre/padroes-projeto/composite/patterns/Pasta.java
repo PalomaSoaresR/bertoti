@@ -29,7 +29,6 @@ public class Pasta implements Composite {
 
     public void excluir(Composite composite) {
         filhos.remove(composite);
-
     }
 
     public List<Composite> getFilhos() {

@@ -1,13 +1,10 @@
 package composite.patterns;
 
-import java.util.ArrayList;
-import java.util.List;
-
-public class Arquivo implements Composite {
+public class Arquivo2 implements Composite {
     private String nomeArquivo;
     private String conteudoArquivo;
 
-    public Arquivo(String nomeArquivo, String conteudoArquivo) {
+    public Arquivo2(String nomeArquivo, String conteudoArquivo) {
         this.nomeArquivo = nomeArquivo;
         this.conteudoArquivo = conteudoArquivo;
     }

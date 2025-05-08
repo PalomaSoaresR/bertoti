@@ -8,7 +8,7 @@ public class Instagram implements Notificacao {
 
 
     @Override
-    public void notificar(String mensagem) {
+    public void update(String mensagem) {
         System.out.println("Instagram: "+ mensagem);    }
     }
 

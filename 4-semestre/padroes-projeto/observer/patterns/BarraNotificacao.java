@@ -6,17 +6,17 @@ import java.util.List;
 public class BarraNotificacao {
     private List<Notificacao> observadores = new ArrayList<>();
 
-    public void add(Notificacao notificacao){
+    public void addObservador(Notificacao notificacao){
         observadores.add(notificacao);
     }
 
-    public void remove(Notificacao notificacao){
+    public void removeObservador(Notificacao notificacao){
         observadores.remove(notificacao);
     }
 
-    public void notificacoes(){
+    public void notificar(){
         for (Notificacao notificacao : observadores) {
-            notificacao.notificar("Você tem uma notificação!");
+            notificacao.update("Você tem uma notificação!");
     }
 }
 }
