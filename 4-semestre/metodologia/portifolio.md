@@ -81,18 +81,40 @@ Minhas principais entregas incluiram:</p>
 </p>
 </details>
 
-#### Hard Skills ( descrever mais )
-- Vue.js 3 – Desenvolvi telas completas com autonomia.
-- JavaScript ES6+ – Manipulação de dados, integração com API e lógica de exibição.
-- Bootstrap – Criação de interfaces responsivas.
-- Integração com API – Realizei consu
-mo de dados, tratamentos e exibição.
-- Git – Controle de versão colaborativo com a equipe.
+#### Hard Skills 
+- Vue.js 3 – Desenvolvi telas completas com autonomia. Atuei na construção de telas de gerenciamento, visualização e filtros dos dados no projeto.
+- JavaScript  – Utilizei para a manipulação de dados, integração com API e lógica de exibição.
+- Bootstrap – Utilizei o framework para a estilização responsiva e personalizações das intefaces.
+- Integração com API – Realizei consumode APIs REST para a extração e exbição de dados. Com implementação de tratamento de rros, feedback visual e lógica de exibição dinâmica.
+- Git / Github – Participei do controle de versionamneto do código fonte, com commits e branches padronizadas e resolução de conflitos.
 
 #### Soft Skills
-- Colaboração em equipe: participei ativamente das sprints e reuniões de alinhamento.
-- Comunicação: contribuí para decisões técnicas e alinhamento com os integrantes.
-- Autonomia: entreguei funcionalidades completas no front-end com proatividade.
+
+  <table align="center">
+    <tr>
+      <th width="300px">Skill</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>★★★★☆</td>
+    </tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★★☆</td>
+    </tr>
+      </tr>
+      <td>Autonomia</td>
+      <td>★★★☆☆</td>
+    </tr>
+       </tr>
+      <td>Colaboração em equipe</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
 
 
 
