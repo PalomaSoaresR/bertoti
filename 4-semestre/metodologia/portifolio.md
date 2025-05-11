@@ -49,21 +49,49 @@
 <p align="justify">Atuei diretamente no desenvolvimento do front-end da aplicação, utilizando Vue.js 3, JavaScript e Bootstrap.
 Minhas principais entregas incluiram:</p>
 
-- Tela de cadastro, edição e exclusão de portais de notícias e tags.
-- Interface para gerenciamento de tags com suporte a regionalismos.
-- Tela para registro e visualização de notícias com autor, data e conteúdo.
-- Criação de filtros para visualização de dados e integrando com a API.
+<details>
+<summary>Interface de cadastro, edição e exclusão de portais de notícias.</summary>
+- Modal de portal de notícia com mapeamento automático
+
+![cadastro](https://github.com/user-attachments/assets/95045e5d-8e04-4e84-8154-054c7330bcc6)
+
+- Tela de gerenciamento de portais de noticia.
+
+![cadastro](https://github.com/user-attachments/assets/4d189bc2-d84d-4bec-aa88-336764d912b5)
+
+</details>
+
+<details>
+<summary>Interface de cadastro, edição e exclusão de API's.</summary>
+<p align="justify"> </p>
+</details>
+
+<details>
+<summary>Interface para gerenciamento de tags com suporte a regionalismos.</summary>
+<p align="justify"> </p>
+</details>
+
+<details>
+<summary>Tela de exibição de notícias e de API's cadastrados, com filtros.</summary>
+<p align="justify"> 
+- Tela de notícias.
+
+- Tela de API's.
+
+</p>
+</details>
 
 #### Hard Skills ( descrever mais )
 - Vue.js 3 – Desenvolvi telas completas com autonomia.
 - JavaScript ES6+ – Manipulação de dados, integração com API e lógica de exibição.
 - Bootstrap – Criação de interfaces responsivas.
-- Integração com API – Realizei consumo de dados, tratamentos e exibição.
+- Integração com API – Realizei consu
+mo de dados, tratamentos e exibição.
 - Git – Controle de versão colaborativo com a equipe.
 
 #### Soft Skills
 - Colaboração em equipe: participei ativamente das sprints e reuniões de alinhamento.
-- Comunicação: contribuí para decisões técnicas sobre UX e integração de dados.
+- Comunicação: contribuí para decisões técnicas e alinhamento com os integrantes.
 - Autonomia: entreguei funcionalidades completas no front-end com proatividade.
 
 
