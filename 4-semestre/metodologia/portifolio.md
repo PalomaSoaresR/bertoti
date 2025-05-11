@@ -1,10 +1,10 @@
-# <p align="center">Paloma Soares Rocha</p>
+<p align="center"><img src="https://github.com/user-attachments/assets/796ae5f3-6ac8-4e99-adf8-35dbcdce7604" width="100%"></p>
 
 ## <p align="center">Introdução</p>
 
 ### <p align="center"> Quem sou eu?</p>
 
-<p align="center"><img src="" width="20%"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/356160a8-ffdd-4f68-9ad0-e5efe29094b5" width="20%"></p>
 
 <p align="justify">Olá! Sou a Paloma, estudante de Banco de Dados na FATEC São José dos Campos. Sou apaixonada por tecnologia e pelas soluções que ela proporciona. Neste portfólio, apresento um dos projetos mais recentes em que atuei, com foco no desenvolvimento front-end utilizando Vue.js.</p>
 
@@ -12,10 +12,10 @@
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/PalomaSoaresR) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/paloma-soares-rocha)
+[<img src="https://img![Uploading growth.png…]()
+.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/PalomaSoaresR) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/paloma-soares-rocha)
 
 </div>
-
 
 ##  <p align="center">Meus Projetos</p>
 
@@ -42,10 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
-
-
-#### Contribuições Pessoais ( colocar print da aplicação)
+#### Contribuições Pessoais 
 <p align="justify">Atuei diretamente no desenvolvimento do front-end da aplicação, utilizando Vue.js 3, JavaScript e Bootstrap.
 Minhas principais entregas incluiram:</p>
 
